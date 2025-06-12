@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { Gem, Menu, X } from 'lucide-react';
+import { Mountain, Menu, X } from 'lucide-react';
 import { useState } from 'react';
 
 const Navigation = () => {
@@ -20,7 +20,7 @@ const Navigation = () => {
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
           <div className="flex items-center space-x-2">
-            <Gem className="h-8 w-8 text-traditional-brown" />
+            <Mountain className="h-8 w-8 text-traditional-brown" />
             <span className="text-xl font-bold text-traditional-brown">
               Pierres Naturelles
             </span>
