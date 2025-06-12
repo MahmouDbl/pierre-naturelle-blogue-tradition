@@ -4,6 +4,7 @@ import Navigation from '../components/Navigation';
 import HeroSection from '../components/HeroSection';
 import BlogSection from '../components/BlogSection';
 import StonesGallery from '../components/StonesGallery';
+import PhotoGallery from '../components/PhotoGallery';
 import BenefitsSection from '../components/BenefitsSection';
 import Footer from '../components/Footer';
 
@@ -14,6 +15,7 @@ const Index = () => {
       <HeroSection />
       <BlogSection />
       <StonesGallery />
+      <PhotoGallery />
       <BenefitsSection />
       <Footer />
     </div>
