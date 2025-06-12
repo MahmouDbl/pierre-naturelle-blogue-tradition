@@ -115,7 +115,7 @@ const PhotoGallery = () => {
             <div>
               <img 
                 src="https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?w=300&h=300&fit=crop"
-                alt: "Bracelet sur ordinateur"
+                alt="Bracelet sur ordinateur"
                 className="w-full h-full object-cover rounded-lg hover:scale-105 transition-transform duration-300"
               />
             </div>
