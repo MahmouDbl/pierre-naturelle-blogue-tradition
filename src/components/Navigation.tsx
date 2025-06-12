@@ -20,7 +20,9 @@ const Navigation = () => {
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
           <div className="flex items-center space-x-2">
-            <Mountain className="h-8 w-8 text-traditional-brown" />
+            <div className="p-2 rounded-full bg-traditional-brown/10 border border-traditional-brown/20">
+              <Mountain className="h-8 w-8 text-traditional-brown" />
+            </div>
             <span className="text-xl font-bold text-traditional-brown">
               Pierres Naturelles
             </span>
