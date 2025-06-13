@@ -57,7 +57,7 @@ const BlogSection = () => {
       date: "5 Mars 2024",
       readTime: "5 min",
       category: "Propriétés",
-      image: "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=400&h=250&fit=crop"
+      image: "https://images.unsplash.com/photo-1500673922987-e212871fec22?w=400&h=250&fit=crop"
     },
     {
       id: 6,
