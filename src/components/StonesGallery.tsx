@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { Star, Zap, Moon, Sun, Heart, Shield } from 'lucide-react';
 
@@ -47,7 +46,7 @@ const StonesGallery = () => {
       chakra: "Plexus solaire",
       icon: <Shield className="h-6 w-6" />,
       gradient: "from-amber-200 to-yellow-100",
-      image: "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=300&h=200&fit=crop"
+      image: "https://images.unsplash.com/photo-1500673922987-e212871fec22?w=300&h=200&fit=crop"
     },
     {
       id: 4,
